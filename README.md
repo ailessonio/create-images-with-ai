@@ -2,7 +2,7 @@
 
 # Create Images with AI
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md)
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Deutsch](README_de.md) · [Français](README_fr.md) · [Español](README_es.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [Русский](README_ru.md) · [العربية](README_ar.md)
 
 <p align="center">
   <a href="https://ailesson.io/courses/create-images-with-ai">
@@ -27,9 +27,23 @@ Decide the purpose
   → revise or choose an honest status
 ```
 
-All people, event details, and room materials in the practice cases are prepared for the Course and contain no real personal information. The images shown are snapshots from real runs. Your live result may differ even when you send the same request.
+All people, event details, and room materials in the practice cases are prepared for the Course and contain no real personal information.
 
 ChatGPT can create and transform the image, but it cannot know another person's taste, measure a real room from this practice photo, confirm an address, or share an image for you. You remain responsible for checking visible text and details, confirming real-world facts, and deciding what to save or send.
+
+## Frequently asked questions
+
+### Do I need design or photo-editing experience?
+
+No. The Course explains image purpose, composition, visual form, and editing boundaries in ordinary language before you use them.
+
+### Do I need image creation in my own ChatGPT account?
+
+No. The Lessons include guided runs and recorded images you can inspect. Live practice is optional and depends on whether image creation or editing is available in your current ChatGPT experience; a live result may differ even when you send the same request.
+
+### Can I use my own photos or event details?
+
+Yes, when you transfer the method after the Course. Use only material you are allowed to share, get appropriate consent from recognizable people, avoid sensitive scenes, remove unnecessary personal information, and check the image tool's current data terms before uploading. You still need to inspect every visible word and important detail yourself.
 
 ## Lessons
 
